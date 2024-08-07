@@ -1,0 +1,17 @@
+{
+	id: "f69f9d1d-4011-4ab0-88e8-c8d7a2b570f9"
+	type: "player"
+	player_name: "Mattezs"
+	ranks: {
+		f69f9d1d-4011-4ab0-88e8-c8d7a2b570f9: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Mattezs"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FFDE"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
